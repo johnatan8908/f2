@@ -1,0 +1,21 @@
+.slogan{
+    display: flex;
+    align-items: center;
+    color:rgb(88, 122, 226)
+}
+@media (max-width: 768px) {
+    .slogan {
+        justify-content: center;
+        text-align: center;
+        margin-top: 10px;
+        font-size: 20px;
+    }
+}
+#barra{
+    border-radius: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgba(255, 255, 255, 0.599);
+    
+   
+}
